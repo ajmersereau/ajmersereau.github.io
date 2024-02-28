@@ -41,11 +41,10 @@
           <h2> <span id="Adam" itemprop="name" style="float: left;">Adam J. Mersereau
               </span> </h2>&nbsp;&nbsp;&nbsp;
           <br>
-            <figure id="portrait"><span><img src="ajm-photo.jpg" alt="Adam Mersereau photo" height="295" width="198"></span></figure>
-            <p> Professor of Operations<br>
-                Sarah Graham Kenan Scholar<br>
-	        Associate Dean of MBA Programs</p>
-	     <p><a href="ajm-cv180820-public.pdf"><font color="#1589FF">Curriculum vitae</font></a></p>
+            <figure id="portrait"><span><img src="ajm-photo-230501.jpg" alt="Adam Mersereau photo" height="300" width="240"></span></figure>
+          <p> Professor and Area Chair of Operations<br>
+                Sarah Graham Kenan Scholar</p>
+	     <p><a href="ajm-cv230711-public.pdf"><font color="#1589FF">Curriculum vitae</font></a></p>
              <p> Kenan-Flagler Business School<br>
               University of North Carolina<br>
               CB 3490, McColl 4207<br>
@@ -80,24 +79,56 @@
             <li>
               <h3><b>B.S.E.</b> summa cum laude in Electrical Engineering, Princeton University, 1996.</h3>
             </li>
-            <br>
+           
           </ul>
         </section>
         <!-- end #edu -->
         <section id="teaching">
           <h2>Courses</h2>
-          <ul>
+	    <i>(Students: Please see course websites for current course materials.)</i>
+<br><br>
+	    <ul>
             <li>
+              <h3><b><font face="times, serif">MBA715, Data Analytics & Decision-Making</font></b>. Core MBA course on analytics and machine learning.
+                <span class="floatRight"></span></h3>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Co-taught with Minkyung Kim (2021-2023), Tarun Kushwaha (2019) in the full-time MBA program.</p>
+            </li>
+       <br>
+             <li>
+              <h3><b><font face="times, serif">MBA706A, Thinking and Communicating with Data</font></b>. Elective MBA course on data visualization, Tableau, and critical thinking with data.
+                <span class="floatRight"></span></h3>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Co-taught with Patty Harms in the full-time MBA program, Fall 2020, Fall 2021, Fall 2023.</p>
+            </li>
+       <br>
+             <li>
+              <h3><b><font face="times, serif">MBA716A, Analytics & Machine Learning for Managerial Decisions</font></b>. Elective MBA course on descriptive, predictive, and prescriptive analytics.
+                <span class="floatRight"></span></h3>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Co-designed and co-taught with Seyed Emadi and Vinayak Deshpande, Spring 2023</p>
+            </li>
+       <br>
+             <li>
+              <h3><b><font face="times, serif">Business Foundations: Business Statistics</font></b>. Asynchronous skills preparation course on probability, statisitcs, and data analysis for incoming MBA students
+                <span class="floatRight"></span></h3>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Designed and recorded 2022
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		-- Deployed 2022--present</p>
+            </li>
+       <br>
+             <li>
               <h3><b><font face="times, serif">MBA714, Business Statistics and Analytics & MBA700, Analytical Tools</font></b>. Core MBA statistics and decision modeling courses.
                 <span class="floatRight"></span></h3>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- Last taught Fall 2017 in the full-time MBA program.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Last taught Spring 2018 in the Weekend Executive MBA program.</p>
+                -- Last taught Spring 2023 in the Weekend Executive MBA program.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- Weatherspoon Award for Excellence in MBA Teaching, 2011 & 2017.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Award for Teaching Excellence, from Weekend Executive MBA class of 2014.</p>
+                -- Award for Teaching Excellence, from Weekend Executive MBA classes of 2018 and 2014.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- Distinguished Core Faculty Award for Outstanding Instruction, from MBA Classes of 2018, 2015, 2014, 2013, 2011, and 2009.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -107,7 +138,10 @@
             <li>
               <h3><b><font face="times, serif">MBA700, Analytical Tools.</font></b> Core statistics and decision modeling course in the MBA@UNC online MBA program.</h3>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Developer and lead professor with Alan Neebe.
+                -- Developer and lead professor with Alan Neebe, 2011-2019.
+            </li>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Lead professor, 2019-present.
             </li>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- MBA@UNC Team Faculty Award, 2012.</p>
@@ -131,8 +165,6 @@
                 -- Developer and lead professor with Tarun Kushwaha.</p>
             </li>
             <br>
-           <i>(Students: please see course websites for current course materials.)</i>
-            <br>
             <br>
             <br>
             <br>
@@ -143,15 +175,19 @@
           <h2>Publications</h2>
           <ul>
             <li>
-              <p>O&#x11f;uz &#xc7;etin, Adam J. Mersereau, and Ali Parlakturk. 2018.  <a href="https://ssrn.com/abstract=2982535"><font color="#1589FF">Management and Effects of In-Store Promotional Displays</font></a>.  Forthcoming in  <font face="times, serif"><b><i>Manufacturing & Service Operations Management.</i></b></font></p>
+              <p>Nicole DeHoratius, Andreas Holzapfel, Heinrich Kuhn, Adam J. Mersereau, and Michael Sternbeck. 2023.  <a href="https://doi.org/10.1287/msom.2022.1119"><font color="#1589FF">Evaluating Count Prioritization Procedures for Improving Inventory Accuracy in Retail Stores</font></a>.  <font face="times, serif"><b><i>Manufacturing & Service Operations Management.</i></b></font> 25 (1) 288--306</p>
             </li>
             <br>
             <li>
-            <p>Gah-Yi Ban, J&eacute;r&eacute;mie Gallien, and Adam J. Mersereau. 2018. <a href="https://ssrn.com/abstract=2926028"><font color="#1589FF">Dynamic Procurement of New Products with Covariate Information: The Residual Tree Method</font></a>.  Forthcoming in  <font face="times, serif"><b><i>Manufacturing & Service Operations Management.</i></b></font></p>
+              <p>O&#x11f;uz &#xc7;etin, Adam J. Mersereau, and Ali Parlakturk. 2020.  <a href="https://doi.org/10.1287/msom.2018.0749"><font color="#1589FF">Management and Effects of In-Store Promotional Displays</font></a>.  <font face="times, serif"><b><i>Manufacturing & Service Operations Management.</i></b></font> 22 (3) 481--494</p>
             </li>
             <br>
             <li>
-              <p>Li Chen, Adam J. Mersereau, and Zhe Wang. 2016. <a href="https://doi.org/10.1287/opre.2017.1596"><font color="#1589FF">Optimal Merchandise Testing with Limited Inventory</font></a>.  <font face="times, serif"><b><i>Operations Research.</i></b></font> 65 (4) 968--991.</p>
+            <p>Gah-Yi Ban, J&eacute;r&eacute;mie Gallien, and Adam J. Mersereau. 2019. <a href="https://doi.org/10.1287/msom.2018.0725"><font color="#1589FF">Dynamic Procurement of New Products with Covariate Information: The Residual Tree Method</font></a>.  <font face="times, serif"><b><i>Manufacturing & Service Operations Management.</i></b></font> 21 (4) 798--815</p>
+            </li>
+            <br>
+            <li>
+              <p>Li Chen, Adam J. Mersereau, and Zhe Wang. 2017. <a href="https://doi.org/10.1287/opre.2017.1596"><font color="#1589FF">Optimal Merchandise Testing with Limited Inventory</font></a>.  <font face="times, serif"><b><i>Operations Research.</i></b></font> 65 (4) 968--991.</p>
             </li>
             <br>
             <li>
@@ -219,7 +255,16 @@
         <section id="articles">
           <h2>Working Papers</h2>
           <ul>
-            <li>
+	    <li>
+            <p> Fernando Bernstein, Bora Keskin, Adam J. Mersereau, Morgan Wood, Serhan Ziya. 2023. Data-Driven Population Tracking in Large Service Systems.</p>
+	    </li>
+	    <br><li>
+            <p> Zahra Ziaei, Adam J. Mersereau, Seyed Emadi, and Vidyaranya Gargeya. 2023. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363486"><font color="#1589FF">Inferring Consideration Sets from Heatmap Data</font></a>.</p>
+	    </li>
+	    <br><li>
+            <p>O&#x11f;uz &#xc7;etin, Adam J. Mersereau, and Ali Parlakturk. 2023. Retailer and Manufacturer Perspectives on Trade Deals Involving In-Store Promotional Displays.
+</li>
+<br><li>
             <p> Karthik V. Natarajan, Dimitris Kostamis, and Adam J. Mersereau. <a href="papers/NatarajanKostamisMersereau-StrategicSharing-120726.pdf"><font color="#1589FF">Strategic Demand Information Sharing Between Competitors</font></a>. (Version 26 July 2012)</p>
             </li>
           </ul>
@@ -228,5 +273,5 @@
 <br>        
 <br>        
 <br>        
-<font size="2"> Last updated: <i>20 August 2018 </i></font>
+<font size="2"> Last updated: <i>11 July 2023 </i></font>
 </body></html>
