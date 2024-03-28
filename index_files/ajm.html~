@@ -44,7 +44,7 @@
             <figure id="portrait"><span><img src="ajm-photo-230501.jpg" alt="Adam Mersereau photo" height="300" width="240"></span></figure>
           <p> Professor and Area Chair of Operations<br>
                 Sarah Graham Kenan Scholar</p>
-	     <p><a href="ajm-cv230711-public.pdf"><font color="#1589FF">Curriculum vitae</font></a></p>
+	     <p><a href="ajm-cv240228-public.pdf"><font color="#1589FF">Curriculum vitae</font></a></p>
              <p> Kenan-Flagler Business School<br>
               University of North Carolina<br>
               CB 3490, McColl 4207<br>
@@ -89,10 +89,12 @@
 <br><br>
 	    <ul>
             <li>
-              <h3><b><font face="times, serif">MBA715, Data Analytics & Decision-Making</font></b>. Core MBA course on analytics and machine learning.
+              <h3><b><font face="times, serif">MBA715, Data Analytics & Decision-Making</font></b>. MBA course on analytics and machine learning.
                 <span class="floatRight"></span></h3>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Co-taught with Minkyung Kim (2021-2023), Tarun Kushwaha (2019) in the full-time MBA program.</p>
+                -- Taught as an elective course in the full-time MBA program, 2024.</p>
+              <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                -- Co-taught with Minkyung Kim (2021-2023), Tarun Kushwaha (2019) as a core course in the full-time MBA program.</p>
             </li>
        <br>
              <li>
@@ -113,7 +115,7 @@
               <h3><b><font face="times, serif">Business Foundations: Business Statistics</font></b>. Asynchronous skills preparation course on probability, statisitcs, and data analysis for incoming MBA students
                 <span class="floatRight"></span></h3>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Designed and recorded 2022
+                -- Designed and recorded 2022</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		-- Deployed 2022--present</p>
             </li>
@@ -124,7 +126,7 @@
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- Last taught Fall 2017 in the full-time MBA program.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                -- Last taught Spring 2023 in the Weekend Executive MBA program.</p>
+                -- Last taught Spring 2024 in the Weekend Executive MBA program.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 -- Weatherspoon Award for Excellence in MBA Teaching, 2011 & 2017.</p>
               <p class="addtional-info">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -256,7 +258,7 @@
           <h2>Working Papers</h2>
           <ul>
 	    <li>
-            <p> Fernando Bernstein, Bora Keskin, Adam J. Mersereau, Morgan Wood, Serhan Ziya. 2023. Data-Driven Population Tracking in Large Service Systems.</p>
+            <p> Fernando Bernstein, Bora Keskin, Adam J. Mersereau, Morgan Wood, Serhan Ziya. 2024. <a href="https://ssrn.com/abstract=4748063"><font color="#1589FF">Data-Driven Population Tracking in Large Service Systems.</a></p>
 	    </li>
 	    <br><li>
             <p> Zahra Ziaei, Adam J. Mersereau, Seyed Emadi, and Vidyaranya Gargeya. 2023. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363486"><font color="#1589FF">Inferring Consideration Sets from Heatmap Data</font></a>.</p>
@@ -273,5 +275,5 @@
 <br>        
 <br>        
 <br>        
-<font size="2"> Last updated: <i>11 July 2023 </i></font>
+<font size="2"> Last updated: <i>6 March 2024 </i></font>
 </body></html>
